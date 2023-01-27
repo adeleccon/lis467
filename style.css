@@ -6,4 +6,23 @@ body {
 ul {
   background-color:lightseagreen;
   color:white;
+  padding:20px;
 }
+
+a:link {
+  color: honeydew;
+}
+
+a:visited {
+  color: honeydew;
+}
+
+a:hover {
+  color: lightgreen;
+  font-weight:bold;
+}
+
+a:active {
+  color: lightgreen;
+  
+} 
